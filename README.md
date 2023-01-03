@@ -1,4 +1,4 @@
-Mods:
+Mods:  
   Actually Additions  
   Actually Baubles  
   AE2 Stuff  
@@ -38,7 +38,7 @@ Mods:
   Tinkers Construct  
   VoiceChat  
 
-Libs:
+Libs:  
   BDLib  
   BrandonsCore  
   CodeChickenLib  
