@@ -20,9 +20,12 @@ Mods:
   EnderIO Endergy  
   EnderIO Zoo  
   Environmental Tech  
-  Extra Planets
+  Extra Planets  
+  Extra Utilities  
+  Extreme Reactors  
   Galacticraft  Planets
   Galacticraft  
+  Hats  
   HWYLA  
   Immersive Engineering  
   Immersive Petroleum  
@@ -41,7 +44,14 @@ Mods:
   Mystical Agriculture  
   OpenBlocks  
   Optifine  
+  ProjectRed Compat  
+  ProjectRed Core  
+  ProjectRed Exploration  
+  ProjectRed Fabrication  
+  ProjectRed Illumination  
+  ProjectRed Integration  
   Real First Person 2  
+  Thaumcraft  
   Thermal Cultivation  
   Thermal Dynamics  
   Thermal Expansion  
@@ -65,6 +75,7 @@ Libs:
   Mantle  
   MicdoodleCore  
   MJRLegendsLib  
+  Multipart  
   OpenModsLib  
   UniDict  
   ValkyrieLib  
