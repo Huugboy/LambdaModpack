@@ -71,12 +71,16 @@ Libs:
   COFH World  
   Cucumber  
   EnderCore  
+  iChunUtil  
+  Llibrary  
   MalisisCore  
   Mantle  
   MicdoodleCore  
   MJRLegendsLib  
+  MrTJPCore  
   Multipart  
   OpenModsLib  
   UniDict  
   ValkyrieLib  
   WanionLib  
+  ZeroCore  
