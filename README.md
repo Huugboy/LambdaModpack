@@ -39,7 +39,7 @@ Mods:
   MalisisBlocks  
   MalisisDoors  
   Mekanism 
-  MrCrayfish's Furniture Mod   
+  MrCrayfish's Furniture Mod  
   Mystical Agradditions  
   Mystical Agriculture  
   OpenBlocks  
@@ -59,7 +59,7 @@ Mods:
   Thermal Innovation  
   Tinkers Construct  
   Tomb Many Graves  
-  Twilight Forest
+  Twilight Forest  
   WAWLA  
 
 Libs:
