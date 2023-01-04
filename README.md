@@ -6,26 +6,37 @@ Mods:
   AppleSkin  
   Applied Energistics 2  
   Baubles  
+  BiblioCraft  
   Botania  
+  BuildCraft  
   Chisel  
   Clumps  
   Connected Textures Mod  
+  Cosmetic Armor Reworked  
+  Damage Indicators  
   Draconic Additions  
   Draconic Evolution  
   EnderIO  
   EnderIO Endergy  
   EnderIO Zoo  
   Environmental Tech  
-  Environmental Tech Lunar  
+  Extra Planets
+  Galacticraft  Planets
+  Galacticraft  
   HWYLA  
   Immersive Engineering  
   Immersive Petroleum  
   Immersive Technology  
+  IndustrialCraft  
   Inventory Tweaks  
+  Iron Backpacks  
   Iron Chests  
   Journeymap  
   Just Enough Items  
-  Mekanism  
+  MalisisBlocks  
+  MalisisDoors  
+  Mekanism 
+  MrCrayfish's Furniture Mod   
   Mystical Agradditions  
   Mystical Agriculture  
   OpenBlocks  
@@ -37,7 +48,8 @@ Mods:
   Thermal Foundation  
   Thermal Innovation  
   Tinkers Construct  
-  VoiceChat  
+  Tomb Many Graves  
+  Twilight Forest
 
 Libs:
 
@@ -48,7 +60,10 @@ Libs:
   COFH World  
   Cucumber  
   EnderCore  
+  MalisisCore  
   Mantle  
+  MicdoodleCore  
+  MJRLegendsLib  
   OpenModsLib  
   UniDict  
   ValkyrieLib  
