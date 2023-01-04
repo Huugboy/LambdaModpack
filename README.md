@@ -50,6 +50,7 @@ Mods:
   Tinkers Construct  
   Tomb Many Graves  
   Twilight Forest
+  WAWLA  
 
 Libs:
 
