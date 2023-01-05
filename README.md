@@ -5,6 +5,8 @@ Mods:
   AE2 Stuff  
   AppleSkin  
   Applied Energistics 2  
+  Astral Sorcery  
+  Basic Nether Ores  
   Baubles  
   BiblioCraft  
   Botania  
@@ -13,9 +15,11 @@ Mods:
   Clumps  
   ComputerCraft Tweaked  
   Connected Textures Mod  
+  Construct's Armory  
   Cosmetic Armor Reworked  
   CraftTweaker2  
   Damage Indicators  
+  DecoCraft  
   Draconic Additions  
   Draconic Evolution  
   EnderIO  
@@ -48,6 +52,7 @@ Mods:
   Mystical Agriculture  
   OpenBlocks  
   Optifine  
+  Oreberries  
   ProjectRed Compat  
   ProjectRed Core  
   ProjectRed Exploration  
@@ -63,6 +68,7 @@ Mods:
   Thermal Expansion  
   Thermal Foundation  
   Thermal Innovation  
+  Tinker IO  
   Tinkers Construct  
   Tomb Many Graves  
   Twilight Forest  
@@ -85,8 +91,10 @@ Libs:
   MicdoodleCore  
   MJRLegendsLib  
   MrTJPCore  
+  MTLib  
   Multipart  
   OpenModsLib  
+  PTRLib  
   UniDict  
   ValkyrieLib  
   WanionLib  
