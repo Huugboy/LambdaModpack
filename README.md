@@ -14,6 +14,7 @@ Mods:
   ComputerCraft Tweaked  
   Connected Textures Mod  
   Cosmetic Armor Reworked  
+  CraftTweaker2  
   Damage Indicators  
   Draconic Additions  
   Draconic Evolution  
@@ -40,6 +41,8 @@ Mods:
   MalisisBlocks  
   MalisisDoors  
   Mekanism 
+  ModTweaker  
+  MoreTweaker  
   MrCrayfish's Furniture Mod  
   Mystical Agradditions  
   Mystical Agriculture  
