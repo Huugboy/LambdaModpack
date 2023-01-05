@@ -11,6 +11,7 @@ Mods:
   BuildCraft  
   Chisel  
   Clumps  
+  ComputerCraft Tweaked  
   Connected Textures Mod  
   Cosmetic Armor Reworked  
   Damage Indicators  
