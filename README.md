@@ -53,6 +53,7 @@ Mods:
   Real First Person 2  
   RFTools  
   Thaumcraft  
+  ThaumicJEI  
   Thermal Cultivation  
   Thermal Dynamics  
   Thermal Expansion  
