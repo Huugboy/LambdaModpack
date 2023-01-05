@@ -17,18 +17,19 @@ Mods:
   Connected Textures Mod  
   Construct's Armory  
   Cosmetic Armor Reworked  
-  CraftTweaker2  
+  Craft Tweaker 2  
   Damage Indicators  
   DecoCraft  
   Draconic Additions  
   Draconic Evolution  
-  EnderIO  
   EnderIO Endergy  
   EnderIO Zoo  
+  EnderIO  
   Environmental Tech  
   Extra Planets  
   Extra Utilities  
   Extreme Reactors  
+  Fossils and Archeology Revival  
   Galacticraft  Planets
   Galacticraft  
   Hats  
@@ -95,6 +96,7 @@ Libs:
   Multipart  
   OpenModsLib  
   PTRLib  
+  RedstoneFlux  
   UniDict  
   ValkyrieLib  
   WanionLib  
