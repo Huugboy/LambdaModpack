@@ -51,6 +51,7 @@ Mods:
   ProjectRed Illumination  
   ProjectRed Integration  
   Real First Person 2  
+  RFTools  
   Thaumcraft  
   Thermal Cultivation  
   Thermal Dynamics  
@@ -75,6 +76,7 @@ Libs:
   Llibrary  
   MalisisCore  
   Mantle  
+  McJtyLib  
   MicdoodleCore  
   MJRLegendsLib  
   MrTJPCore  
