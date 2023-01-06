@@ -48,7 +48,6 @@ Mods:
   MalisisDoors  
   Mekanism 
   ModTweaker  
-  MoreTweaker  
   MrCrayfish's Furniture Mod  
   Mystical Agradditions  
   Mystical Agriculture  
