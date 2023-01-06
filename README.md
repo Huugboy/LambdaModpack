@@ -22,6 +22,7 @@ Mods:
   DecoCraft  
   Draconic Additions  
   Draconic Evolution  
+  DynamicTrees  
   EnderIO Endergy  
   EnderIO Zoo  
   EnderIO  
