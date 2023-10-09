@@ -2,12 +2,15 @@ Mods:
 
   Actually Additions  
   Actually Baubles  
-  AE2 Stuff  
+  AE2 Stuff Extended  
+  Alfheim  
+  Ambient Sounds  
   AppleSkin  
-  Applied Energistics 2  
+  Applied Energistics 2 Extended  
   Astral Sorcery  
   Basic Nether Ores  
   Baubles  
+  Better Biome Blend  
   BiblioCraft  
   Botania  
   BuildCraft  
@@ -30,6 +33,7 @@ Mods:
   Extra Planets  
   Extra Utilities  
   Extreme Reactors  
+  Foamfix  
   Fossils and Archeology Revival  
   Galacticraft  Planets
   Galacticraft  
@@ -54,13 +58,13 @@ Mods:
   OpenBlocks  
   Optifine  
   Oreberries  
+  Particle Culling  
   ProjectRed Compat  
   ProjectRed Core  
   ProjectRed Exploration  
   ProjectRed Fabrication  
   ProjectRed Illumination  
   ProjectRed Integration  
-  Real First Person 2  
   RFTools  
   Thaumcraft  
   ThaumicJEI  
@@ -72,16 +76,21 @@ Mods:
   Tinker IO  
   Tinkers Construct  
   Tomb Many Graves  
-  Twilight Forest  
+  Twilight Forest 
+  Universal Tweaks  
   WAWLA  
 
 Libs:
 
+  Config Anytime
+  Mixin Booter  
+  Red Core  
   BDLib  
   BrandonsCore  
   CodeChickenLib  
   COFH Core  
   COFH World  
+  Creative Core  
   Cucumber  
   EnderCore  
   iChunUtil  
