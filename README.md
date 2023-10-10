@@ -1,5 +1,6 @@
 Mods:
 
+  AbyssalCraft  
   Actually Additions  
   Actually Baubles  
   AE2 Stuff Extended  
