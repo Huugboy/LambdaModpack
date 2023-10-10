@@ -12,6 +12,7 @@ Mods:
   Basic Nether Ores  
   Baubles  
   Better Biome Blend  
+  BetterFPS  
   BiblioCraft  
   Botania  
   BuildCraft  
