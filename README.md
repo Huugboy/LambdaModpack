@@ -60,6 +60,7 @@ Mods:
   OpenBlocks  
   Optifine  
   Oreberries  
+  Parasites  
   Particle Culling  
   ProjectRed Compat  
   ProjectRed Core  
@@ -81,6 +82,7 @@ Mods:
   Twilight Forest 
   Universal Tweaks  
   WAWLA  
+  Weather 2  
 
 Libs:
 
@@ -92,6 +94,7 @@ Libs:
   CodeChickenLib  
   COFH Core  
   COFH World  
+  CoroUtil  
   Creative Core  
   Cucumber  
   EnderCore  
